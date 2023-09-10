@@ -1,7 +1,7 @@
 # E-Commerce_Sales_Dashboad
 This repo contains all the files used in E-Commerce Project. This project is completed end to end on Microsoft Excel.
 
-Watch the Demo Clip :- https://drive.google.com/file/d/1PhRvASGPCKRWbIMO6L3GUOXmF9Xo0c3m/view?usp=sharing
+
 
 E-commerce (electronic commerce) is the buying and selling of goods and services, or the transmitting of funds or data, over an electronic network, primarily the internet. These business transactions occur either as business-to-business (B2B), business-to-consumer (B2C), consumer-to-consumer or consumer-to-business.
 
